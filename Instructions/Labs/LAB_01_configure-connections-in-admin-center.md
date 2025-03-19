@@ -37,7 +37,7 @@
     - ExternalConnection -> ExternalConnection.ReadWrite.OwnedBy
     - ExternalItem -> ExternalItem.ReadWrite.All
       
-1. 选择“添加权限”按钮。
+1. 选择“添加权限”按钮****。
 1. 选择“**授予 Contoso 的管理员同意**”，然后选择“**是**”进行确认。
 
 **备注：** 不要关闭此 Edge 浏览器选项卡。以下任务要求从Azure 门户复制和粘贴信息。
