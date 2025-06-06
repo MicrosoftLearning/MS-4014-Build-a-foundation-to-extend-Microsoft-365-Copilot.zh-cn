@@ -1,4 +1,4 @@
-# INF99X：示例课程
+# MS-4014：构建 AI 代理基础，扩展 Microsoft 365 Copilot 功能
 
 **你是 MCT 吗？** - 查看 [MCT GitHub 用户指南](https://microsoftlearning.github.io/MCT-User-Guide/)
 
