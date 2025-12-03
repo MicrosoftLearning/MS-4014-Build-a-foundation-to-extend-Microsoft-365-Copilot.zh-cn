@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 30th December 2025.**
+
 # MS-4014：构建 AI 代理基础，扩展 Microsoft 365 Copilot 功能
 
 **你是 MCT 吗？** - 查看 [MCT GitHub 用户指南](https://microsoftlearning.github.io/MCT-User-Guide/)
